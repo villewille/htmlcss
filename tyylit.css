@@ -1,0 +1,11 @@
+#main-heading {color: red; font-size: 100px; text-align:center ;}
+
+p {font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.ingressi{font-size: 3em;}
+
+.korostus{color: rgb(20, 173, 96); font-style: oblique; font-variant: small-caps;}
+
+body {
+     background-color: lightblue;
+   }
